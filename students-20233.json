@@ -5,5 +5,13 @@
     "dob": "1987-08-21",
     "gender": "male",
     "email": "jesus.delgado@tecvalles.mx"
+  },
+  
+  {
+    "name": "Emanuel",
+    "last_name": "Badillo Torres",
+    "dob": "2000-10-25",
+    "gender": "male",
+    "email": "20690458@tecvalles.mx"
   }
 ]
